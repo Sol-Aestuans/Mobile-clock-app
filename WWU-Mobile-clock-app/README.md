@@ -1,8 +1,8 @@
 # Mobile Clock App
 
-Created for the CS412 (Mobile Device Programming) Course @ Western Washington University
-
-Init script: /usr/central/bin/as_init
+### Created for the CS412 (Mobile Device Programming) Course @ Western Washington University
+* Developed using React Native for Android & iOS
+* Init script: /usr/central/bin/as_init
 
 ## Functionality
 
@@ -21,7 +21,7 @@ Overall, users are able to:
 
 ## Design
 
-See the expected design in [the design folder](./design/). Please try your best to make your app look the same as the expected design. All the required assets for this project are in the /assets folder. 
+See the expected design in [the design folder](./design/).
 
 ## Example images
 ![alt text](design/AppCapture1.PNG)
